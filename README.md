@@ -1,4 +1,4 @@
-# 2022 NOS Code Delivery to NWS/NCO
+# 2022 NOS Code Package version 3.5.0
 
 This repository contains version 3.5.0 of the NOAA/National Ocean Service (NOS) National Operational Coastal Modeling Program (NOCMP) code package for delivery to
 the NOAA/National Weather Service (NWS)/National Centers for Environmental Prediciton (NCEP) Central Operations (NCO) for the next production implementation at

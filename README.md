@@ -9,8 +9,7 @@ Notes for the location of the fix directory.**
 
 ## Overview
 NOS develops and operates Operational Forecast Systems (OFS) that provide users with nowcast (analyses of near-present) and forecast guidance of water levels,
-currents, salinity and water temperature out to of 120 hours, four times per day. The OFS are operated under a standardized Coastal Ocean Modeling
-Framework (COMF) at NOAA’s WCOSS.
+currents, salinity and water temperature out to of 120 hours, four times per day. The OFS are operated under a standardized Coastal Ocean Modeling Framework (COMF) at NOAA’s WCOSS.
 
 OFSs are implemented in critical ports, harbors, estuaries, Great Lakes and coastal waters of the United States, and will join the NOS' operational
 oceanographic capabilities to form a national backbone of real-time data, tidal predictions, data management and operational modeling. Currently, NOS operates a
